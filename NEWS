@@ -1,0 +1,11 @@
+Version 0.1-alpha ------------------------------------------------- [2012-11-08]
+
+*   New gedit plugin that adds a command to convert XML special characters
+    ("&", "<", ">", "'" and """) in a section, or the whole document, into
+    character entities. Requires [gedit](http://projects.gnome.org/gedit/).
+    
+*   When installed and activated (in the Plugins tab in the gedit Preferences
+    dialog (Edit->Preferences)), this plugin adds a new menu item - when there
+    is a document open - with a submenu with two options. One option converts
+    XML special characters in the current selection. The other converts XML
+    special characters in the whole document.

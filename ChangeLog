@@ -1,0 +1,35 @@
+2012-11-08  Mark A. Gibbs  <indi.in.the.wired@gmail.com>
+     
+     * COPYING: New project copyright documentaion.
+     Contains text of GPL3 from http://www.gnu.org/copyleft/gpl.html pages.
+     
+     * AUTHORS: New project contributor records.
+     
+     * THANKS: New project contributor records.
+     
+     * README: New package information and documentation file.
+     
+     * INSTALL: New installation documentation file.
+     
+     * ChangeLog: New project change log.
+     
+     * NEWS: New project history file.
+     
+     * m4/gedit.m4: New m4 macro file.
+     
+     * po/ChangeLog: New project translations change log.
+     
+     * po/LINGUAS: New translations list file.
+     
+     * po/Makevars: New translation template configuration file.
+     
+     * po/POTFILES.in: New translation file input list.
+     
+     * src/xml-encode.plugin.desktop.in: New plugin description file template.
+     
+     * src/xml-encode.py: New plugin script.
+
+
+# Copyright 2012 Mark A. Gibbs
+# Copying and distribution of this file, with or without modification, are
+# permitted provided the copyright notice and this notice are preserved.

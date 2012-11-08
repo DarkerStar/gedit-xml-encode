@@ -1,0 +1,23 @@
+# Ignore everything in this directory
+*
+
+# Except these files
+!.gitignore
+
+!build-aux/
+!m4/
+!po/
+!src/
+
+!AUTHORS
+!ChangeLog
+!COPYING
+!INSTALL
+!NEWS
+!README
+!README.md
+!THANKS
+
+!bootstrap
+!configure.ac
+!Makefile.am

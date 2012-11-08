@@ -1,0 +1,14 @@
+[Plugin]
+Loader=python
+Module=xml-encode
+IAge=3
+# TRANSLATORS: Plugin name
+_Name=XML Encode
+# TRANSLATORS: Plugin description
+_Description=Encode XML special characters as entities
+# TRANSLATORS: Plugin author
+_Authors=Mark A. Gibbs <indi.in.the.wired@gmail.com>
+# TRANSLATORS: DO NOT TRANSLATE THE "Copyright © 2012". Don't even transliterate it into some other script. Leave it exactly as it is, in English/Latin script. You can translate everything after, but not that bit. This is for legal reasons.
+_Copyright=Copyright © 2012 Mark A. Gibbs
+Website=https://github.com/DarkerStar/gedit-xml-encode
+Version=0.1

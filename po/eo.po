@@ -1,0 +1,75 @@
+# Esperanto translations for gedit XML encode plugin package.
+# Copyright (C) 2012 Mark A. Gibbs
+# This file is distributed under the same license as the gedit XML encode plugin package.
+# Mark A. Gibbs <indi.in.the.wired@gmail.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gedit XML encode plugin 0.1\n"
+"Report-Msgid-Bugs-To: indi.in.the.wired@gmail.com\n"
+"POT-Creation-Date: 2012-11-07 23:47-0500\n"
+"PO-Revision-Date: 2012-11-07 23:03-0500\n"
+"Last-Translator: Mark A. Gibbs <indi.in.the.wired@gmail.com>\n"
+"Language-Team: Esperanto translation team <indi.in.the.wired@gmail.com>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Esperanto\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. TRANSLATORS: Plugin name
+#: ../src/xml-encode.plugin.desktop.in.h:2
+msgid "XML Encode"
+msgstr "XML Enkodilo"
+
+#. TRANSLATORS: Plugin description
+#. TRANSLATORS: Main menu item help text
+#: ../src/xml-encode.plugin.desktop.in.h:4 ../src/xml-encode.py:137
+msgid "Encode XML special characters as entities"
+msgstr "Enkodi XML-ajn apartajn signojn kiel koderojn"
+
+#. TRANSLATORS: Plugin author
+#: ../src/xml-encode.plugin.desktop.in.h:6
+msgid "Mark A. Gibbs <indi.in.the.wired@gmail.com>"
+msgstr "Mark A. GIBBS <indi.in.the.wired@gmail.com>"
+
+#. TRANSLATORS: DO NOT TRANSLATE THE "Copyright © 2012". Don't even transliterate it into some other script. Leave it exactly as it is, in English/Latin script. You can translate everything after, but not that bit. This is for legal reasons.
+#: ../src/xml-encode.plugin.desktop.in.h:8
+msgid "Copyright © 2012 Mark A. Gibbs"
+msgstr "Copyright © 2012 Mark A. GIBBS"
+
+#. TRANSLATORS: Main menu item text
+#: ../src/xml-encode.py:135
+msgid "_XML Encode"
+msgstr "_XML Enkodilo"
+
+#. TRANSLATORS: Menu item text to encode whole document
+#: ../src/xml-encode.py:142
+msgid "_Document"
+msgstr "_Dokumento"
+
+#: ../src/xml-encode.py:143
+msgid "Encode XML special characters in document"
+msgstr "Enkodi XML-ajn apartajn signojn en dokumento"
+
+#. TRANSLATORS: Menu item text to encode just selection
+#: ../src/xml-encode.py:148
+msgid "_Selection"
+msgstr "_Elekto"
+
+#: ../src/xml-encode.py:149
+msgid "Encode XML special characters in selection"
+msgstr "Enkodi XML-ajn apartajn signojn en eleko"
+
+#: ../src/xml-encode.py:207
+msgid "No XML special characters found"
+msgstr "Neniu XML-aj apartaj signoj troviĝis"
+
+#: ../src/xml-encode.py:209
+#, python-format
+msgid "Found and replaced one XML special character"
+msgid_plural "Found and replaced %d XML special characters"
+msgstr[0] "Trovis kaj anstataŭigis unu XML-an apartan signon"
+msgstr[1] "Trovis kaj anstataŭigis %d XML-ajn apartajn signojn"

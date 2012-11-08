@@ -1,0 +1,9 @@
+# This directory must exist for autoreconf to put files in during bootstrapping,
+# but it should be empty normally. This file is necessary to force git to
+# accept an "empty" directory.
+
+# Ignore everything in this directory
+*
+
+# Except this file
+!.gitignore

@@ -1,0 +1,22 @@
+# gedit XML encode plugin AUTHORS file
+# 
+# Copyright 2012 Mark A. Gibbs <indi.in.the.wired@gmail.com>
+# 
+# Copying and distribution of this file, with or without modification, are
+# permitted in any medium without royalty provided the copyright notice and this
+# notice are preserved. This file is offered as-is, without any warranty.
+# 
+# Also see the ChangeLog and THANKS files.
+
+
+
+Mark A. Gibbs                                      <indi.in.the.wired@gmail.com>
+--------------------------------------------------------------------------------
+
+  created      -> AUTHORS, ChangeLog, COPYING, INSTALL, NEWS, README, THANKS,
+                  m4/gedit.m4, po/ChangeLog, po/LINGUAS, po/Makevars,
+                  po/POTFILES.in, src/xml-encode.plugin.desktop.in,
+                  src/xml-encode.plugin.desktop.in, src/xml-encode.py
+  
+  translations -> Esperanto (eo), French (fr), Japanese (ja), Spanish (es),
+                  default English
